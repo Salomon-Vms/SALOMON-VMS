@@ -1,6 +1,7 @@
 ---
 title: "Gemini, le nouveau modèle d'intelligence artificielle de Google"
-seoTitle: "VMSTECH"
+seoTitle: "VMSTECH,Gemini,salomon vms,Vekoy,viekoy"
+seoDescription: "Décrouvrez la nouvelle intelligence artificiel avec salomon vekoy"
 datePublished: Wed Dec 13 2023 10:02:45 GMT+0000 (Coordinated Universal Time)
 cuid: clq3ls1s7000r08kzhbm43e4p
 slug: gemini-le-nouveau-modele-dintelligence-artificielle-de-google
